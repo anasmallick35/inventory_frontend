@@ -1,0 +1,12 @@
+
+.pdf-button button{
+    width: 170px;
+    height: 40px;
+    border-radius: 6px;
+    font-size: 25px;
+    background-color: rgba(192, 192, 192, 0.568);
+}
+
+.pdf-button button:hover {
+    background-color: rgb(107, 107, 188);
+}
